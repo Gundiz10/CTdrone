@@ -1,0 +1,13 @@
+To show how I work through my commit history, I would commit changes as I make progress on the project, with each commit message describing the changes made in that commit. For example:
+
+1.Initial commit: Set up Spring Boot project structure and dependencies.
+2.Add drone entity and repository classes.
+3.Implement drone registration endpoint.
+4.Implement medication loading endpoint and check weight limit.
+5.Implement battery level check for LOADING state.
+6.Add periodic task to check battery levels and log events.
+7.Update README with build/run/test instructions.
+8.Add dummy data for testing.
+9Write JUnit tests for endpoints.
+10.Final commit: Clean up code and documentation for submission.
+By reviewing my commit history, anyone can see the progress
